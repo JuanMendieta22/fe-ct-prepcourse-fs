@@ -41,8 +41,7 @@ function obtenerResto(x, y) {
    // Obten el resto de la división de "x" entre "y".
    // Tu código:
    obtenerResto = x % y
-   return obtenerResto
-   
+   return obe
 }
 
 /*⚠️ NO MODIFIQUES NADA DEBAJO DE ESTO ⚠️*/
